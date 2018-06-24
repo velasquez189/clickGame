@@ -1,0 +1,19 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  background-image: url('https://previews.123rf.com/images/peekeedee1/peekeedee11502/peekeedee1150200063/36002921-white-marble-stone-background-granite-grunge-nature-detail-pattern-construction-textured-house-inter.jpg');
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+  font-family: 'Anton', sans-serif;
+}
+  
+  /* .wrapper > .container {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: blue;
+  } */

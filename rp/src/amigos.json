@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "name": "America",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/800px-Flag_of_the_United_States.svg.png",
+        "clicked": false
+    },
+    {
+        "id":2,
+        "name": "Colombia",
+        "image": "https://cdn.countryflags.com/thumbs/colombia/flag-button-square-250.png",
+        "clicked": false
+    },
+    {
+        "id":3,
+        "name": "Uruguay",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/800px-Flag_of_Uruguay.svg.png",
+        "clicked": false
+    },
+    {
+        "id":4,
+        "name": "Argentina",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/800px-Flag_of_Argentina.svg.png",
+        "clicked": false
+    },
+    {
+        "id":5,
+        "name": "Venezuela",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/800px-Flag_of_Venezuela.svg.png",
+        "clicked": false
+    },
+    {
+        "id":6,
+        "name": "Iceland",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/800px-Flag_of_Iceland.svg.png",
+        "clicked": false
+    },
+    {
+        "id":7,
+        "name": "Ireland",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/1200px-Flag_of_Ireland.svg.png",
+        "clicked": false
+    },
+    {
+        "id":8,
+        "name": "Germany",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1000px-Flag_of_Germany.svg.png",
+        "clicked": false
+    },
+    {
+        "id":9,
+        "name": "Sweden",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/1024px-Flag_of_Sweden.svg.png",
+        "clicked": false
+    }
+]
